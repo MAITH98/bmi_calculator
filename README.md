@@ -118,7 +118,6 @@ We welcome contributions from the community! If you’d like to contribute to th
    ```
 5. **Open a Pull Request**: Once you push the changes, open a Pull Request (PR) on the GitHub repository.
 
-For more details, refer to the [Contribution Guidelines](CONTRIBUTING.md).
 
 ---
 
